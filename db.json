@@ -1,0 +1,105 @@
+{
+  "bikes": [
+    {
+      "id": "1",
+      "name": "Classic 350",
+      "brand": "Royal Enfield",
+      "type": "Cruiser",
+      "engine": 349,
+      "price": 193000,
+      "mileage": 41,
+      "image": "https://motoringworld.in/wp-content/uploads/2024/12/Survivor-RE-Classic-350.png"
+    },
+    {
+      "id": "2",
+      "name": "FZ-16",
+      "brand": "Yamaha",
+      "type": "Naked",
+      "engine": 155,
+      "price": 170000,
+      "mileage": 48,
+      "image": "https://w7.pngwing.com/pngs/935/832/png-transparent-yamaha-fz16-yamaha-motor-company-yamaha-mt-25-yamaha-yzf-r3-lamborghini-aventador-exhaust-system-car-motorcycle-thumbnail.png"
+    },
+    {
+      "id": "3",
+      "name": "CBR350",
+      "brand": "Honda",
+      "type": "Sports",
+      "engine": 349,
+      "price": 200000,
+      "mileage": 35,
+      "image": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87"
+    },
+    {
+      "id": "4",
+      "name": "Pulsar NS200",
+      "brand": "Bajaj",
+      "type": "Sports",
+      "engine": 199,
+      "price": 158000,
+      "mileage": 40,
+      "image": "https://w7.pngwing.com/pngs/631/325/png-transparent-bajaj-auto-car-bajaj-pulsar-200ns-motorcycle-car-exhaust-system-sport-bike-vehicle-thumbnail.png"
+    },
+    {
+      "id": "5",
+      "name": "Apache RR 310",
+      "brand": "TVS",
+      "type": "Sports",
+      "engine": 310,
+      "price": 249000,
+      "mileage": 32,
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/--red-without-quickshifter-obd-2b1744894903832.jpg?q=80"
+    },
+    {
+      "id": "6",
+      "name": "Duke 200",
+      "brand": "KTM",
+      "type": "Naked",
+      "engine": 199,
+      "price": 198000,
+      "mileage": 35,
+      "image": "https://w7.pngwing.com/pngs/262/750/png-transparent-ktm-200-duke-bajaj-auto-car-ktm-rc-390-car-exhaust-system-motorcycle-sport-bike-thumbnail.png"
+    },
+    {
+      "id": "7",
+      "name": "Triumph Speed",
+      "brand": "Triumph",
+      "type": "Naked",
+      "engine": 349,
+      "price": 270000,
+      "mileage": 30,
+      "image": "https://imgd.aeplcdn.com/664x374/n/sf0hg8b_1924470.png?q=80"
+    },
+    {
+      "id": "8",
+      "name": "Honda Hness ",
+      "brand": "Honda",
+      "type": "Cruiser",
+      "engine": 349,
+      "price": 240000,
+      "mileage": 36,
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/--dlx-pro-obd-2b1743781063580.jpg?q=80"
+    },
+    {
+      "id": "9",
+      "name": "Suzuki-V-Storm ",
+      "brand": "Suzuki",
+      "type": "Adventure",
+      "engine": 249,
+      "price": 240000,
+      "mileage": 36,
+      "image": "https://imgd.aeplcdn.com/664x374/n/usadkhb_1874821.jpg?q=80"
+    },
+    {
+      "name": "Honda CB 350 RS",
+      "brand": "Honda",
+      "type": "Cruiser/Roadster",
+      "engine": "349",
+      "price": "240000",
+      "mileage": "40",
+      "image": "https://blog.gaadikey.com/wp-content/uploads/2025/04/2025-Honda-CB350RS-1-1536x1152.jpg",
+      "id": "Razw4v6HJxU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
